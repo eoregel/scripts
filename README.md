@@ -1,2 +1,3 @@
-# scripts
-store general scripts for anything
+# Scripts
+
+Store general scripts
