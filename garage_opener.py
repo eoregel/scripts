@@ -7,9 +7,9 @@ from twilio.rest import Client
 from flask import Flask, request, redirect
 
 # Your Account SID from twilio.com/console
-account_sid = "ACb4f2702cfb0d222aa27205f9cd365429"
+account_sid = ""
 # Your Auth Token from twilio.com/console
-auth_token  = "adefe18cba753e4dc9732e48eadaf048"
+auth_token  = ""
 
 client = Client(account_sid, auth_token)
 
